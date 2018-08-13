@@ -15,5 +15,5 @@ https://api.foursquare.com/v2/venues/search?client_id=IOEER2IWKPTOTFF3D51HCVIJ0S
 
 https://foursquare.com/developers/app/IOEER2IWKPTOTFF3D51HCVIJ0SFGFAVC4UF5OFQ22R45QXNI
 
-Released under the [MIT License] (http://opensource.org/licenses/MIT)
-Copyright @ 2015 [RKOSecurity] (http://www.rkosecurity.com)
+## License
+Released under the [MIT License](http://opensource.org/licenses/MIT)
